@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "window.zoomLevel": 0,
+    "code-runner.defaultLanguage": "python",
+    //"python.testing.autoTestDiscoverOnSaveEnabled": false,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true
+}
