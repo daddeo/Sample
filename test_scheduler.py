@@ -1,4 +1,5 @@
 # dependency_injection
+# python -m pip install mock
 # http://www.voidspace.org.uk/python/articles/introduction-to-unittest.shtml
 
 import time
